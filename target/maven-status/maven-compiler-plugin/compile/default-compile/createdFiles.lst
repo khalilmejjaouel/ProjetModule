@@ -1,0 +1,3 @@
+com\mycompany\backend\ApplicationConfig.class
+com\mycompany\backend\CORSFilter.class
+com\mycompany\backend\FirstResource.class
